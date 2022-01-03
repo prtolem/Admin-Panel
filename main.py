@@ -8,7 +8,7 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.types import Message
 
 API_TOKEN = 'TOKEN' # мы получили в первой статье
-ADMIN = # ваш chat-id. Узнать можно тут @getmyid_bot
+ADMIN = # ваш user-id. Узнать можно тут @getmyid_bot
 
 logging.basicConfig(level=logging.INFO)
 
